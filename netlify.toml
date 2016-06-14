@@ -1,2 +1,3 @@
-Command = "echo building"
+Command = "mkdir -p public && cp index.html public"
 Base = "."
+Publish = "public"
