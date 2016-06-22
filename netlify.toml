@@ -1,3 +1,0 @@
-Command = "echo 'creating public' && mkdir -p public && cp index.html public"
-Base = "."
-Publish = "public"
